@@ -1,0 +1,34 @@
+{
+  "name": "math-sort",
+  "version": "0.0.0",
+  "description": "Sort an array of numbers, in ascending order",
+  "license": "MIT",
+  "repository": "icyflame/math-sort",
+  "author": {
+    "name": "Siddharth Kannan",
+    "email": "kannan.siddharth12@gmail.com",
+    "url": "icyflame.github.io"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "semistandard && mocha"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "math",
+    "sort",
+    "arrays",
+    "array",
+    "numbers",
+    "ascending"
+  ],
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "*",
+    "semistandard": "6.1.1"
+  }
+}
